@@ -143,6 +143,13 @@ p.lead {
     line-height: 1.8;
 }
 
+.imagem-teste{
+    display: flex;
+    width: 15%;
+    height: 15%;
+    padding-right: 30px;
+}
+
 .btn-group-lg>.btn,
 .btn-lg {
     padding: 0.8rem 1rem;
