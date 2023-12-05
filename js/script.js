@@ -27,6 +27,9 @@ $(function() {
     $(window).on('scroll', function() {
         menuscroll();
     });
+
+    
+
     /*-----------------------------------
      * NAVBAR CLOSE ON CLICK
      *-----------------------------------*/
